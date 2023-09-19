@@ -4,6 +4,15 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
 
+/**
+ * Collection接口通常不能直接使用，单接口提供了添加元素，删除元素，管理元素的方法。
+ * 由于List和Set接口都继承了Collection接口，因此这些方法对List集合和Set集合是通用的
+ * add()
+ * remove()
+ * isEmpty()
+ * size()
+ */
+
 public class A01_CollectionDemo1 {
     public static void main(String[] args) {
         Collection<String> collection = new ArrayList<>();
@@ -16,13 +25,14 @@ public class A01_CollectionDemo1 {
         Iterator<String> iterator = collection.iterator();
         while (iterator.hasNext()){
             String next = iterator.next();
-            System.out.println("next = " + next);
+            System.out.println("next 1 = " + next);
         }
 
-        while (iterator.hasNext()){
-            String next = iterator.next();
-            System.out.println("next = " + next);
-        }
+        // 迭代器不能复用
+//        while (iterator.hasNext()){
+//            String next = iterator.next();
+//            System.out.println("next 2 = " + next);
+//        }
 
     }
 }
