@@ -11,6 +11,7 @@
     <modules>
         <module>StudyMySQL</module>
         <module>StudyCollection</module>
+        <module>StudyMap</module>
     </modules>
 
     <properties>

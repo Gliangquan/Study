@@ -1,4 +1,4 @@
-package com.quan.jihe;
+package com.quan.collection;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -13,7 +13,7 @@ import java.util.List;
  * set(int index, Object obj)
  */
 
-public class A02_ListDemo1 {
+public class A02_List {
     public static void main(String[] args) {
 //        ArrayListMethod();
 //        LinkedListMethod();

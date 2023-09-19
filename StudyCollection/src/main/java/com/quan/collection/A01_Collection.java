@@ -1,4 +1,4 @@
-package com.quan.jihe;
+package com.quan.collection;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -13,7 +13,7 @@ import java.util.Iterator;
  * size()
  */
 
-public class A01_CollectionDemo1 {
+public class A01_Collection {
     public static void main(String[] args) {
         Collection<String> collection = new ArrayList<>();
         collection.add("1");
