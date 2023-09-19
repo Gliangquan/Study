@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cd74189-af5d-4187-989a-36a8744fc0f0" name="Changes" comment="09/19-02：List接口">
-      <change afterPath="$PROJECT_DIR$/StudyCollection/src/main/java/com/quan/jihe/A03_Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyMap/pom.xml" afterDir="false" />
+    <list default="true" id="6cd74189-af5d-4187-989a-36a8744fc0f0" name="Changes" comment="09/19-04：Map">
+      <change afterPath="$PROJECT_DIR$/txt/list,set,map的区别" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyCollection/src/main/java/com/quan/jihe/A01_CollectionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyCollection/src/main/java/com/quan/jihe/A01_Collection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyCollection/src/main/java/com/quan/jihe/A02_ListDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyCollection/src/main/java/com/quan/jihe/A02_List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +64,7 @@
       <recent name="$PROJECT_DIR$/StudyMySQL/src/main/resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.quan.map" />
       <recent name="com.quan.jihe" />
     </key>
   </component>
@@ -130,7 +127,7 @@
       <workItem from="1694994897512" duration="2000" />
       <workItem from="1694995195105" duration="6881000" />
       <workItem from="1695088304100" duration="347000" />
-      <workItem from="1695104462761" duration="3937000" />
+      <workItem from="1695104462761" duration="4759000" />
     </task>
     <task id="LOCAL-00001" summary="09/18-01">
       <option name="closed" value="true" />
@@ -164,7 +161,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695106740750</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="09/19-02：Map">
+      <option name="closed" value="true" />
+      <created>1695108462195</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695108462195</updated>
+    </task>
+    <task id="LOCAL-00006" summary="09/19-04：Map">
+      <option name="closed" value="true" />
+      <created>1695108637328</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695108637328</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +187,8 @@
     <MESSAGE value="09/18-01" />
     <MESSAGE value="09/19-01" />
     <MESSAGE value="09/19-02：List接口" />
-    <option name="LAST_COMMIT_MESSAGE" value="09/19-02：List接口" />
+    <MESSAGE value="09/19-02：Map" />
+    <MESSAGE value="09/19-04：Map" />
+    <option name="LAST_COMMIT_MESSAGE" value="09/19-04：Map" />
   </component>
 </project>
