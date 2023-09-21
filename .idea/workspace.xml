@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cd74189-af5d-4187-989a-36a8744fc0f0" name="Changes" comment="09/19-04：Map">
-      <change afterPath="$PROJECT_DIR$/txt/list,set,map的区别" afterDir="false" />
+    <list default="true" id="6cd74189-af5d-4187-989a-36a8744fc0f0" name="Changes" comment="09/19-05">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,28 +37,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "/Users/liangquan/Desktop/StudyPlate/MyStudy/StudyMap/src/main/java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/liangquan/Desktop/StudyPlate/MyStudy/StudySpringSecurity&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.14450866&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/StudySpringSecurity" />
       <recent name="$PROJECT_DIR$/StudyMap/src/main/java" />
       <recent name="$PROJECT_DIR$/StudyCollection/src/main/resources" />
     </key>
@@ -68,7 +71,7 @@
       <recent name="com.quan.jihe" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A03_Set">
+  <component name="RunManager" selected="Application.A01_Collection">
     <configuration name="A01_Collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.quan.collection.A01_Collection" />
       <module name="StudyCollection" />
@@ -111,8 +114,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.A03_Set" />
-        <item itemvalue="Application.A02_List01" />
-        <item itemvalue="Application.A01_Collection01" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +128,9 @@
       <workItem from="1694994897512" duration="2000" />
       <workItem from="1694995195105" duration="6881000" />
       <workItem from="1695088304100" duration="347000" />
-      <workItem from="1695104462761" duration="4759000" />
+      <workItem from="1695104462761" duration="7887000" />
+      <workItem from="1695174236263" duration="234000" />
+      <workItem from="1695257416956" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="09/18-01">
       <option name="closed" value="true" />
@@ -177,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695108637328</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="09/19-05">
+      <option name="closed" value="true" />
+      <created>1695109248957</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695109248957</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +200,7 @@
     <MESSAGE value="09/19-02：List接口" />
     <MESSAGE value="09/19-02：Map" />
     <MESSAGE value="09/19-04：Map" />
-    <option name="LAST_COMMIT_MESSAGE" value="09/19-04：Map" />
+    <MESSAGE value="09/19-05" />
+    <option name="LAST_COMMIT_MESSAGE" value="09/19-05" />
   </component>
 </project>

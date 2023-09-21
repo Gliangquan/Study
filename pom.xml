@@ -8,10 +8,12 @@
     <artifactId>MyStudy</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
+
     <modules>
         <module>StudyMySQL</module>
         <module>StudyCollection</module>
         <module>StudyMap</module>
+        <module>StudySpringSecurity</module>
     </modules>
 
     <properties>
